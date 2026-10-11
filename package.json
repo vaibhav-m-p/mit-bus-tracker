@@ -1,0 +1,7 @@
+{
+  "name": "mit-bus-tracker",
+  "version": "1.0.0",
+  "description": "Live bus tracker for MIT Mysore",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
